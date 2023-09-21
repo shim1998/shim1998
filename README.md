@@ -1,6 +1,9 @@
-### ./hello 👋
-I am currently working as a Software Developer with experience in ML.
-I am more focused on the deploying and serving of ML models. 
+### ./hello
+I am currently working as a Software Developer with experience in ML.  
+I am more focused on deploying and serving ML models and the nuances behind them.  
+
+### ./what i do
+I make random bots over on Discord and add them over here.  
 Absolutely love Rust and CPP language at the moment 🖤.
 
 <!--
