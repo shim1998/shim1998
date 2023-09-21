@@ -1,5 +1,6 @@
 ### ./hello 👋
-I am currently working as a Software Developer with experience in ML, more focused on the deploying and serving of ML models. 
+I am currently working as a Software Developer with experience in ML.
+I am more focused on the deploying and serving of ML models. 
 Absolutely love Rust and CPP language at the moment 🖤.
 
 <!--
