@@ -1,4 +1,6 @@
-### Hi there 👋
+### ./hello 👋
+I am currently working as a Software Developer with experience in ML, more focused on the deploying and serving of ML models. 
+Absolutely love Rust and CPP language at the moment 🖤.
 
 <!--
 **shim1998/shim1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
