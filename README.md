@@ -6,6 +6,7 @@ I am more focused on deploying and serving ML models and the nuances behind them
 I make random bots over on Discord and add them over here.  
 Absolutely love Rust and CPP language at the moment 🖤.
 
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shim1998&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shim1998/shim1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
